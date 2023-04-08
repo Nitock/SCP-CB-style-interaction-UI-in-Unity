@@ -30,6 +30,6 @@ Here is the guide on installing it:
 
 
 
-Make sure that all your object (Target,image and collider) are in your empty GameObject!
+Make sure that all your objects (Target,image and collider) are in your empty GameObject!
 
 ----------------------------------------------------------------------------------------
