@@ -18,15 +18,15 @@ Here is the guide on installing it:
 
 
 
-Hover Image : Reference to an image that will hover over an target. Put your hovering image inside the box.
+1)Hover Image : Reference to an image that will hover over an target. Put your hovering image inside the box.
 
-Target Collider : Reference to an area (Box Collider), where when the player enters it, the image will be visible on camera and will start hovering over an target. Put your object where the box collider is installed.
+2)Target Collider : Reference to an area (Box Collider), where when the player enters it, the image will be visible on camera and will start hovering over an target. Put your object where the box collider is installed.
 
-Player Collider : Reference to the player. Just put the FPS_Controller prefab into that box.
+3)Player Collider : Reference to the player. Just put the FPS_Controller prefab into that box.
 
-Target Object : Reference to an object, that the image will hover over it. Put the target object inside it.
+4)Target Object : Reference to an object, that the image will hover over it. Put the target object inside it.
 
-Image Hover : Reference to an "Image Hover" script. just put your empty GameObject inside it.
+5)Image Hover : Reference to an "Image Hover" script. just put your empty GameObject inside it.
 
 
 
