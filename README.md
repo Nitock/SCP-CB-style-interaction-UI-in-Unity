@@ -1,7 +1,7 @@
 # SCP-CB-style-interaction-UI-in-Unity
 This script will make an image hover over a particular object like in SCP CB.
 
-README!!!:
+
 ----------------------------------------------------------------------------------------
 Here is the guide on installing it:
 
