@@ -7,7 +7,7 @@ Here is the guide on installing it:
 
 1. Create an empty GameObject in your scene and put both of the scripts inside it.
 
-2. Create a Canvas, click on UI and create an "Image". After that, set your sprite to a image and adjust the size.
+2. Create a Canvas, click on UI and create an "Image". After that, set your sprite to that image and adjust the size.
 
 3. Create an object you want the image to hover over it. Then, add a box collider in that object, adjust the size of it and set the tick box "Is trigger". This collider will be your area where when a player enters it, the image will appear and start hovering over an particular object.
 
