@@ -24,7 +24,7 @@ Here is the guide on installing it:
 
 3)Player Collider : Reference to the player. Just put the FPS_Controller prefab into that box.
 
-4)Target Object : Reference to an object, that the image will hover over it. Put the target object inside it.
+4)Target Object : Reference to an target object, that the image will hover over it. Put the target object inside it.
 
 5)Image Hover : Reference to an "Image Hover" script. just put your empty GameObject inside it.
 
